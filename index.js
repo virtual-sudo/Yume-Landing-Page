@@ -14,8 +14,8 @@
     // Background image
     const bgImage = "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&q=80&w=2000";
 
-    const kizuna = "https://github.com/virtual-sudo/Yume-Landing-Page/blob/main/kizuna.png?raw=true";
-    const kokoro = "https://github.com/virtual-sudo/Yume-Landing-Page/blob/main/kokoro.png?raw=true";
+    const kizuna = "https://github.com/virtual-sudo/Yume-Landing-Page/blob/main/kizuna_updated.png?raw=true";
+    const kokoro = "https://github.com/virtual-sudo/Yume-Landing-Page/blob/main/kokoro_updated.png?raw=true";
 
     // Logic to clear the timer when the user is active
     const resetInactivityTimer = () => {
